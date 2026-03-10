@@ -20,6 +20,6 @@ I've never participated in bootcamps and have not studied any IT-related subject
 * I love listening creepypastas
 * Coffee addicted
 
-![snow1](https://github.com/user-attachments/assets/b9ca7848-b556-41f3-9976-1ccea0cad6db)
+![Untitled](https://github.com/user-attachments/assets/a8802bb1-fef4-4394-ac6a-7f18171a4df0)
 
 ![snow2](https://github.com/user-attachments/assets/f8884bf7-c6a8-409d-8db7-f92d7d7df64a)
