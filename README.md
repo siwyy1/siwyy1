@@ -18,7 +18,7 @@ I've never participated in bootcamps and have not studied any IT-related subject
 
 * I've been a truck driver (Poland, Germany, Czech Republic)
 * I love listening creepypastas
-* Coffee addicted
+* Tea with honey enjoyer
 
 
 <img width="1919" height="1079" alt="562181553-9a0e25ce-b381-4702-98b1-96ba3a86733f" src="https://github.com/user-attachments/assets/da256443-0e27-4ab7-bcca-0ab33b319d05" />
