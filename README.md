@@ -21,7 +21,7 @@ I've never participated in bootcamps and have not studied any IT-related subject
 * Tea with honey enjoyer
 
 
-<img width="1919" height="1079" alt="562181553-9a0e25ce-b381-4702-98b1-96ba3a86733f" src="https://github.com/user-attachments/assets/da256443-0e27-4ab7-bcca-0ab33b319d05" />
+<img width="1919" height="1079" alt="Screenshot from 2026-03-17 08-21-42" src="https://github.com/user-attachments/assets/debd5e2f-c418-4fba-97cf-bd20e239dd5e" />
 
 
 <img width="908" height="385" alt="linux" src="https://github.com/user-attachments/assets/f2a844c5-0c04-4c01-83b1-b3620206bfaf" />
