@@ -20,5 +20,6 @@ I've never participated in bootcamps and have not studied any IT-related subject
 * I love listening creepypastas
 * Tea with honey enjoyer
 
-<img width="1919" height="1079" alt="Screenshot from 2026-05-03 19-33-51" src="https://github.com/user-attachments/assets/ec67a06b-0e06-4aa0-a8b5-b7c178c0d7b5" />
+<img width="1919" height="1079" alt="Screenshot from 2026-05-03 22-05-07" src="https://github.com/user-attachments/assets/e769416c-6131-4b19-b741-b18168807c5f" />
+
 
