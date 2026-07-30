@@ -6,6 +6,8 @@ Before I started coding I spent months to learning about linux, networking and c
 
 I've tested many distros, but my favorite for its simplicity and reliability is just Linux Mint (cinnamon 🫶)
 
+I tried 3 major cloud providers using also Terraform and CI/CD process
+
 I've never participated in bootcamps and have not studied any IT-related subject, I am self-taught
 
 ---
