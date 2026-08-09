@@ -20,7 +20,7 @@ I've never participated in bootcamps and have not studied any IT-related subject
 
 [![Hugging Face](https://img.shields.io/badge/Hugging%20Face-Profile-green)](https://huggingface.co/Siwy1)
 
-[![Discord](https://img.shields.io/badge/Discord-Contact-5865F2?logo=discord&logoColor=white)](https://discord.com/users/1479107441609408665)
+[![Discord](https://img.shields.io/badge/Discord-siwyy1-5865F2?logo=discord&logoColor=white)](https://discord.com/users/1479107441609408665)
 
 ---
 #### Project:
