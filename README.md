@@ -15,6 +15,11 @@ I've never participated in bootcamps and have not studied any IT-related subject
 ---
 #### My self-hosted website: https://siwyit.pl/
 
+
+[![Kaggle](https://img.shields.io/badge/Kaggle-Profile-green)](https://www.kaggle.com/siwekk)
+
+[![Hugging Face](https://img.shields.io/badge/Hugging%20Face-Profile-green)](https://huggingface.co/Siwy1)
+
 ---
 #### Project:
 
