@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there <img src="assets/python.gif" alt="Python" width="30">
 
 Polish beginner programmer on his way to get the first IT job
 
@@ -9,6 +9,8 @@ I've tested many distros, but my favorite for its simplicity and reliability is 
 I tried 3 major cloud providers using also Terraform and CI/CD process
 
 I've never participated in bootcamps and have not studied any IT-related subject, I am self-taught
+
+
 
 ---
 #### My self-hosted website: https://siwyit.pl/
