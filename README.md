@@ -8,6 +8,8 @@ I've tested many distros, but my favorite for its simplicity and reliability is 
 
 I tried 3 major cloud providers using also Terraform and CI/CD process
 
+Awareness of writing functions, OOP, unit tests, and mocks
+
 I've never participated in bootcamps and have not studied any IT-related subject, I am self-taught
 
 
