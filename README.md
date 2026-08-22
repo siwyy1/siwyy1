@@ -23,7 +23,7 @@ I've never participated in bootcamps and have not studied any IT-related subject
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kamil-siwek-ba611b42a/)
 [![Discord](https://img.shields.io/badge/Discord-siwyy1-5865F2?logo=discord&logoColor=white)](https://discord.com/users/1479107441609408665)
 
-
+![baner](assets/baner.png)
 
 ---
 #### Project:
