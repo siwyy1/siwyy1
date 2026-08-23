@@ -4,7 +4,7 @@ Polish beginner programmer on his way to get the first IT job
 
 Before I started coding I spent months to learning about linux, networking and computer science
 
-I've tested many distros, but my favorite for its simplicity and reliability is just Linux Mint (cinnamon 🫶)
+I've tested many distros, but the Debian family fits me best (Linux Mint & Kubuntu 🫶)
 
 I tried 3 major cloud providers using also Terraform and CI/CD process
 
