@@ -8,8 +8,6 @@ I've tested many distros, but the Debian family fits me best (Linux Mint & Kubun
 
 I tried 3 major cloud providers using also Terraform and CI/CD process
 
-Awareness of writing functions, OOP, unit tests and mocks
-
 I've never participated in bootcamps and have not studied any IT-related subject, I am self-taught
 
 
