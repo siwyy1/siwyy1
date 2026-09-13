@@ -1,6 +1,3 @@
-## Hi there <img src="assets/cpp.png" alt="cpplang" width="30" style="border-radius: 50%;">
-
-
 #### My self-hosted website: https://siwyit.pl/
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kamil-siwek-ba611b42a/)
@@ -23,5 +20,5 @@
 * I love listening creepypastas
 * Coffee addiction
 
-![Tux](assets/qa.jpg)
+![Lis](assets/qa.jpg)
 
