@@ -1,4 +1,4 @@
-## Hi there <img src="assets/python.gif" alt="Python" width="30">
+## Hi there <img src="assets/cpp.png" alt="cpplang" width="30" style="border-radius: 50%;">
 
 
 #### My self-hosted website: https://siwyit.pl/
@@ -24,5 +24,4 @@
 * Coffee addiction
 
 ![Tux](assets/qa.jpg)
-
 
