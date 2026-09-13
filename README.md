@@ -1,6 +1,5 @@
 ## Hi there <img src="assets/python.gif" alt="Python" width="30">
 
-![lis](assets/qa.jpg)
 
 #### My self-hosted website: https://siwyit.pl/
 
@@ -24,6 +23,6 @@
 * I love listening creepypastas
 * Coffee addiction
 
-![Tux](assets/desktop.png)
+![Tux](assets/qa.jpg)
 
 
