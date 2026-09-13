@@ -1,22 +1,8 @@
 ## Hi there <img src="assets/python.gif" alt="Python" width="30">
 
-Polish beginner programmer on his way to get the first IT job
 
-Before I started coding I spent months to learning about linux, networking and computer science
-
-I've tested many distros, but the Debian family fits me best (Linux Mint 🫶)
-
-I tried 3 major cloud providers using also Terraform and CI/CD process
-
-I've never participated in bootcamps and have not studied any IT-related subject, I am self-taught
-
-
-
----
 #### My self-hosted website: https://siwyit.pl/
 
-
-[![Kaggle](https://img.shields.io/badge/Kaggle-Profile-green)](https://www.kaggle.com/siwekk)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kamil-siwek-ba611b42a/)
 [![Discord](https://img.shields.io/badge/Discord-siwyy1-5865F2?logo=discord&logoColor=white)](https://discord.com/users/1479107441609408665)
 
@@ -32,9 +18,10 @@ I've never participated in bootcamps and have not studied any IT-related subject
 
 #### Fun facts:
 
-* I've been a truck driver (Poland, Germany, Czech Republic)
+* former truck driver (Poland, Germany, Czech Republic)
+* my first and fav distro is Linux Mint 🫶
 * I love listening creepypastas
-* Tea with honey enjoyer
+* Coffee addiction
 
 ![Tux](assets/desktop.png)
 
