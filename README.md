@@ -20,5 +20,9 @@
 * I love listening creepypastas
 * Coffee addiction
 
+
+<img width="570" height="384" alt="1" src="https://github.com/user-attachments/assets/ea2b4245-041e-47d9-b5c5-fc8c1f882404" />
+
 ![Lis](assets/qa.jpg)
+
 
